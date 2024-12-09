@@ -61,6 +61,9 @@ To conclude,
 
 This data shows that both have their ups and downs.  Held Karp is much less time efficient but gets much shorter tour paths while the Local Search will get you an answer sooner, but that answer probably won't be the most ideal path.
 
+
+I needed to use this Stack Overflow link to get the syntax for adding my graphs to the Readme (https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github)
+
 Excel is the software I used to make my graphs.
 
 For this comparison I asked my friend Cade if I could borrow his Held Karp algorithm which can be found here (https://github.com/COSC3020/tsp-held-karp-CadeMaynard)
