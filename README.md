@@ -53,7 +53,7 @@ Let's get to the tour length comparison.
 
 Below is a graph comparing the two algorithms to each other based not on time but only on the tour length
 
-![Tour Comparison](https://github.com/COSC3020/tsp-comparison-jataylor111-1/blob/main/Comparison.png)
+![Tour Comparison](https://github.com/COSC3020/tsp-comparison-jataylor111-1/blob/main/Comparison1.png)
 
 As we can see the difference between the two is quite noticable.  They both hold out relatively similarly to each other in the smaller input sizes but pretty quickly the Local Search just takes off while the Held Karp keeps below it.  This shows that the Held Karp algorithm will generally find a much shorter path to the Local Search algorithm.
 
